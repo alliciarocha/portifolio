@@ -36,8 +36,8 @@ export function ExperienceSection() {
       description: "Desenvolvimento de um sistema de hardware e software integrado a deep learning para detecção de obstáculos viários em tempo real, resultando em artigo científico aprovado no congresso ERI-ES.",
       technologies: ["Python", "C/C++", "ESP32", "Visão Computacional", "Deep Learning"],
       githubUrl: "https://github.com/alliciarocha/Projeto-ML-Embarcados-Cidades-Int-IC-Ifes",
-      articleUrl: "/pdf/artigo.pdf",
-      posterUrl: "/pdf/Jornada 2025 ALLICIA.pdf",
+      articleUrl: "https://drive.google.com/file/d/1uiwFUlNRziXQCv0meRlZEGiPtGCcqqAT/view?usp=drive_link",
+      posterUrl: "https://drive.google.com/file/d/1d9BvCzSA-67yGpIt_p9ZQfq4hkoDt4pB/view?usp=drive_link",
     }
   ];
 

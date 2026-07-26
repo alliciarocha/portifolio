@@ -41,7 +41,7 @@ export function ContactSection() {
     {
       title: "Currículo",
       value: "Visualizar / Baixar CV",
-      link: "/pdf/ALLICIA ROCHA DOS SANTOS.pdf",
+      link: "https://drive.google.com/file/d/1A1mhO3g8__OLDSSCmvacDGb_tLJv3bTT/view?usp=drive_link",
       icon: FileText,
       isExternal: true
     }
